@@ -1,0 +1,68 @@
+.top-of-page{
+  font-size: 20px;
+  font-family: "Arial", sans-serif;
+  background-color: white;
+  color: black;
+  float: left;
+  border:0px solid black;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+#nav{
+  border:0px solid black;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 20px;
+
+  font-family: 'Arial', sans-serif;
+  font-size: 1.3em;
+
+  text-align: center;
+  max-width: px;
+  float: right;
+}
+
+.big-text{
+font-size: 80px;
+margin-bottom: 60px;
+margin-top: 50px;
+}
+
+.first-page-italic{
+font-size: 20px;
+font-weight: bold;
+margin-bottom: 110px;
+}
+
+.home-page-bg{
+  color: white;
+  background-image: url("../images/cappucino.jpg");
+  vertical-align: middle;
+  height: 800px;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: transparent;
+  background-size: cover;
+  }
+
+#contact-us{
+  margin-top: 80px;
+text-align: center;
+display: inline-block;
+height: auto;
+padding: 14px 30px;
+background: black;
+font-family: 'Arial', sans-serif;
+font-size: 12px;
+line-height: 1;
+text-transform: uppercase;
+}
+
+.bottom-pg-margin{
+  margin-top: 70px;
+  margin-bottom: 60px;
+}
