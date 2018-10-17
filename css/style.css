@@ -1,35 +1,35 @@
 .top-of-page{
   font-size: 20px;
-  font-family: "Arial", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background-color: white;
   color: black;
   float: left;
-  border:0px solid black;
   margin-right: auto;
   margin-left: auto;
   padding: 20px;
-  font-weight: bold;
+  font-weight: 800;
   text-transform: uppercase;
 }
 
 #nav{
-  border:0px solid black;
   margin-right: auto;
   margin-left: auto;
   padding: 20px;
-
-  font-family: 'Arial', sans-serif;
   font-size: 1.3em;
-
   text-align: center;
   max-width: px;
   float: right;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  color: black;
 }
 
 .big-text{
 font-size: 80px;
 margin-bottom: 60px;
 margin-top: 50px;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
 }
 
 .first-page-italic{
